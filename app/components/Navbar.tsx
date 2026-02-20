@@ -12,7 +12,7 @@ export default function Navbar() {
                   <Link href="/About"><li>About</li></Link>
                   <Link href="/Feature"><li>Features</li></Link>
                   <Link href="/Gallerypage"><li>Gallery</li></Link>
-                  <Link href="/Support"><li>Support</li></Link>
+                  <Link href="/Signin"><li>Signin</li></Link>
                 </ul>
             </div>
             <div>
